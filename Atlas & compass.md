@@ -87,11 +87,11 @@ Then click Connect.
 
 <h4>Step 4: Use Compass</h4>  
 Inside Compass, you can:
-.See all databases and collections
-.View documents
-.Insert, update, delete data
-.Run queries
-.Run aggregations
-.See indexes
+See all databases and collections
+View documents
+Insert, update, delete data
+Run queries
+Run aggregations
+See indexes
 
 
