@@ -40,7 +40,7 @@ Since MongoDB uses JSON-like documents, it integrates extremely well with:
   .Real-time APIs
   .Microservices
 
-<2>Where MongoDB is Used </h2>
+<h2>Where MongoDB is Used </h2>
 MongoDB is commonly used in:
 E-commerce platforms
 Social networks
