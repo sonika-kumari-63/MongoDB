@@ -42,10 +42,10 @@ Since MongoDB uses JSON-like documents, it integrates extremely well with:
 
 <h2>Where MongoDB is Used </h2>
 MongoDB is commonly used in:
- E-commerce platforms
- Social networks
- Real-time analytics
- Content management systems
- Mobile applications
- Cloud-native applications
- IoT systems
+.E-commerce platforms
+.Social networks
+.Real-time analytics
+.Content management systems
+.Mobile applications
+.Cloud-native applications
+.IoT systems
