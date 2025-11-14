@@ -10,7 +10,7 @@ Traditional SQL databases require a fixed structure (schema). But modern applica
   .High traffic and scalability challenges
  MongoDB was built to solve these problems by offering a schema-flexible, scalable, and distributed architecture.
 
-<h1>Key Characteristics of MongoDB</h1>
+<h2>Key Characteristics of MongoDB</h2>
 . Document-Based:
 Data is stored as JSON-like documents called BSON (Binary JSON).
 These documents can store nested objects, arrays, and dynamic field
@@ -39,7 +39,7 @@ Since MongoDB uses JSON-like documents, it integrates extremely well with:
   .Real-time APIs
   .Microservices
 
-<2>Where MongoDB is Used</h2>
+<2>Where MongoDB is Used </h2>
 MongoDB is commonly used in:
 E-commerce platforms
 Social networks
