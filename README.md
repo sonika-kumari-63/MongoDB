@@ -1,4 +1,5 @@
-<h1>Introduction to MongoDB</h1>  
+<h1> MongoDB</h1>  
+<h2> Introduction of MongoDB</h2>
 MongoDB is a NoSQL, document-oriented database designed to store data in a flexible, scalable, and developer-friendly way.
 Unlike traditional SQL databases (which store data in tables and rows), MongoDB stores information in documents, which look very similar to JSON objects. This makes it naturally compatible with JavaScript and modern backend development.
 
